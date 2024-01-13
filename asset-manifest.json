@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ori/static/css/main.ad64b258.css",
+    "main.js": "/ori/static/js/main.d36b114a.js",
+    "index.html": "/ori/index.html",
+    "main.ad64b258.css.map": "/ori/static/css/main.ad64b258.css.map",
+    "main.d36b114a.js.map": "/ori/static/js/main.d36b114a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad64b258.css",
+    "static/js/main.d36b114a.js"
+  ]
+}

@@ -16,7 +16,7 @@ const About = () => {
                         </div>
                         <div className="column right">
                             <div className="text"> </div>
-                            <p>As a graduate research assistant at Northeastern University and a master's student in computer science, I am passionate about innovation and problem-solving in the world of technology. I am constantly exploring emerging trends and seeking new challenges, with a focus on graph neural networks (GNN) and data engineering.
+                            <p>As a graduate research assistant at EAI and a master's student in computer science, I am passionate about innovation and problem-solving in the world of technology. I am constantly exploring emerging trends and seeking new challenges, with a focus on graph neural networks (GNN) and data engineering.
 
 My journey includes impactful experiences in both academia and industry. In my role as an undergraduate research assistant at the Tata Institute of Fundamental Research, I developed a regression method based on GNN to predict electron energies. This project not only resulted in a publication in IEEE but also earned a runner-up award at Pradarshini 23, a national-level technical festival.
 
